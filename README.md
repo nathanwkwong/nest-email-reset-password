@@ -1,6 +1,6 @@
 ## Description
 
-A repository to demonstrate a forgot/reset password flow with Nest.js and nodemailer.
+A repository to demonstrate a forgot/reset password flow with Nest.js and nodemailer. A medium [post](https://medium.com/@wkwong.nathan/implement-forgot-reset-password-flow-with-nest-js-2bce846b0495) to explain it.
 
 ## Project setup
 
